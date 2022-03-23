@@ -1,5 +1,5 @@
 {
-  description = ''Wrapper for Allegro version 5.X'';
+  description = ''Wrapper for Allegro version 5.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
